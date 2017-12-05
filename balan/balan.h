@@ -2,6 +2,7 @@
 
 #include <QtWidgets/QWidget>
 #include "ui_balan.h"
+#include <qdebug.h>
 
 class balan : public QWidget
 {
